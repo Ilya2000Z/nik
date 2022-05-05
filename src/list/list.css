@@ -1,0 +1,92 @@
+.backcolor{
+    background-color: #C4C4C4;
+    background-size: 100% 100%;
+}
+.blockButton{
+    border-top: solid black;
+}
+@media screen and (min-width: 1024px) and (max-width: 1440px){
+    .blockButton{
+        
+    }
+}
+.icondelete{
+    font-size: 30px;
+    margin-top: 15px;
+}
+.sidebarCont{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.button1{
+    background-color: #3C75AA; /* Green */
+    border: none;
+    color: black;
+    padding: 0px 10px 10px 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    width: 100%;
+  }
+  .icondelete1{
+    font-size: 30px;
+    margin-top: 33px;
+  }
+  .icondelete2{
+    font-size: 30px;
+ 
+  }
+  .plus{
+      margin-top: 40px;
+  }
+  .leftbord{
+      height: 30px;
+      border-left: dashed black;
+  }
+  .withBord{
+      width: 270px;
+      border-bottom: dashed black;
+  }
+  .paramBord{
+      margin-top: 10px;
+  }
+  .buttonPlus{
+      border-radius: 50px;
+      font-size: 12px;
+
+  }
+
+.button {
+    background-color: #3C75AA; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    width: 100%;
+  }
+  .test{
+      background-color: #534949;
+      color: white;
+  }
+.nametext{
+padding-top: 20px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  opacity: 0.7;
+}
+.dropRow Row{
+ 
+}
+.RowCustom{
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left: calc(-.5 * var(--bs-gutter-x));
+}

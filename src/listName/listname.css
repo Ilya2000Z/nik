@@ -1,0 +1,15 @@
+.sidebarCont{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.button {
+    background-color: #3C75AA; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    width: 100%;
+  }

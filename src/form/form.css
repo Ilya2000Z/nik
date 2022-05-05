@@ -1,0 +1,88 @@
+.backcolor{
+    background-color: #C4C4C4;
+    background-size: 100% 100%;
+}
+.blockButton{
+    border-top: solid black;
+}
+@media screen and (min-width: 1024px) and (max-width: 1440px){
+    .blockButton{
+        
+    }
+}
+.icondelete{
+    font-size: 30px;
+    margin-top: 15px;
+}
+.sidebarCont{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.button1{
+    background-color: #3C75AA; /* Green */
+    border: none;
+    color: black;
+    padding: 0px 10px 10px 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    width: 100%;
+  }
+  .icondelete1{
+    font-size: 30px;
+    margin-top: 33px;
+  }
+  .icondelete2{
+    font-size: 30px;
+ 
+  }
+  .plus{
+      margin-top: 40px;
+  }
+  .leftbord{
+      height: 30px;
+      border-left: dashed black;
+  }
+  .withBord{
+      width: 270px;
+      border-bottom: dashed black;
+  }
+  .paramBord{
+      margin-top: 10px;
+  }
+  .buttonPlus{
+      border-radius: 50px;
+      font-size: 12px;
+
+  }
+
+.button {
+    background-color: #3C75AA; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    width: 100%;
+  }
+  .test{
+      background-color: #534949;
+      color: white;
+  }
+  .no-display{
+      display: none;
+  }
+  .block-display{
+      display: block ;
+  }
+  .col-lg-1{
+    flex: 0 0 8.333333%;
+    max-width: 0.333333% !important;
+  }
+  .icondelete2{
+    font-size: 22px;
+    margin-top: 7px;
+  }
